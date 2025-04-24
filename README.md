@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Viveksahoo-svg/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Viveksahoo-svg/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
