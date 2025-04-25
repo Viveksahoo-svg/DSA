@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/1677-matrix-diagonal-sum) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
