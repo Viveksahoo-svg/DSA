@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Viveksahoo-svg/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
 ## Recursion
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Viveksahoo-svg/DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Viveksahoo-svg/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Viveksahoo-svg/DSA/tree/master/0054-spiral-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1646-kth-missing-positive-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Viveksahoo-svg/DSA/tree/master/0054-spiral-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
