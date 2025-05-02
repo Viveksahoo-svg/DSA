@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Viveksahoo-svg/DSA/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Viveksahoo-svg/DSA/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Viveksahoo-svg/DSA/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Viveksahoo-svg/DSA/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
