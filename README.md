@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Viveksahoo-svg/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Viveksahoo-svg/DSA/tree/master/0231-power-of-two) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
