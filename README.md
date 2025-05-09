@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Viveksahoo-svg/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Viveksahoo-svg/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Viveksahoo-svg/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Viveksahoo-svg/DSA/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Viveksahoo-svg/DSA/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1013-fibonacci-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Viveksahoo-svg/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Viveksahoo-svg/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 | [1646-kth-missing-positive-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1646-kth-missing-positive-number) |
 ## String
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Viveksahoo-svg/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Viveksahoo-svg/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viveksahoo-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/Viveksahoo-svg/DSA/tree/master/0830-largest-triangle-area) |
 | [1646-kth-missing-positive-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Viveksahoo-svg/DSA/tree/master/0830-largest-triangle-area) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
