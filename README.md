@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viveksahoo-svg/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viveksahoo-svg/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Viveksahoo-svg/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Viveksahoo-svg/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Viveksahoo-svg/DSA/tree/master/0326-power-of-three) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viveksahoo-svg/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Viveksahoo-svg/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Viveksahoo-svg/DSA/tree/master/0206-reverse-linked-list) |
 ## Geometry
