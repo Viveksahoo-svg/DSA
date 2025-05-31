@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Viveksahoo-svg/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Viveksahoo-svg/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1646-kth-missing-positive-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1646-kth-missing-positive-number) |
 ## String
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0830-largest-triangle-area](https://github.com/Viveksahoo-svg/DSA/tree/master/0830-largest-triangle-area) |
 | [1646-kth-missing-positive-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Viveksahoo-svg/DSA/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Viveksahoo-svg/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
