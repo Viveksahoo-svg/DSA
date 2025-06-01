@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Viveksahoo-svg/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Viveksahoo-svg/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Viveksahoo-svg/DSA/tree/master/0069-sqrtx) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Viveksahoo-svg/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Viveksahoo-svg/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Viveksahoo-svg/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Viveksahoo-svg/DSA/tree/master/0049-group-anagrams) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Viveksahoo-svg/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viveksahoo-svg/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Viveksahoo-svg/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
