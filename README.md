@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Viveksahoo-svg/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Viveksahoo-svg/DSA/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2235-capitalize-the-title](https://github.com/Viveksahoo-svg/DSA/tree/master/2235-capitalize-the-title) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Viveksahoo-svg/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Viveksahoo-svg/DSA/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksahoo-svg/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
