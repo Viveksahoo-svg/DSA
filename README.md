@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/Viveksahoo-svg/DSA/tree/master/0561-array-partition) |
 | [0830-largest-triangle-area](https://github.com/Viveksahoo-svg/DSA/tree/master/0830-largest-triangle-area) |
 | [1646-kth-missing-positive-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Viveksahoo-svg/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Viveksahoo-svg/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Viveksahoo-svg/DSA/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Viveksahoo-svg/DSA/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Viveksahoo-svg/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Viveksahoo-svg/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/Viveksahoo-svg/DSA/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Viveksahoo-svg/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Viveksahoo-svg/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
