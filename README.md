@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Viveksahoo-svg/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Viveksahoo-svg/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Viveksahoo-svg/DSA/tree/master/0054-spiral-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viveksahoo-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Viveksahoo-svg/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Viveksahoo-svg/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Viveksahoo-svg/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Viveksahoo-svg/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Viveksahoo-svg/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
