@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viveksahoo-svg/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Viveksahoo-svg/DSA/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Viveksahoo-svg/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viveksahoo-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Viveksahoo-svg/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Viveksahoo-svg/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Viveksahoo-svg/DSA/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Viveksahoo-svg/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Viveksahoo-svg/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viveksahoo-svg/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Viveksahoo-svg/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Viveksahoo-svg/DSA/tree/master/0169-majority-element) |
